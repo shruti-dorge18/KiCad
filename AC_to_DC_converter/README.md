@@ -72,15 +72,15 @@ AC_to_DC_converter.kicad_pro
 
 ## Schematic
 
-![Schematic](./AC_to_DC_converter_schematic.png)
+![Schematic](./Images/AC_to_DC_converter_schematic.png)
 
 ## PCB Layout
 
-![PCB Layout](./AC_to_DC_converter_pcb.png)
+![PCB Layout](./Images/AC_to_DC_converter_pcb.png)
 
 ## 3D View
 
-![3D View](./AC_to_DC_converter_3Dview.png)
+![3D View](./Images/AC_to_DC_converter_3Dview.png)
 
 
 ## Author
