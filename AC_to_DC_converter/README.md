@@ -70,6 +70,19 @@ AC_to_DC_converter.kicad_pro
 3. Open the schematic or PCB Editor from KiCad.
 4. Use **View → 3D Viewer** to inspect the PCB in 3D.
 
+## Schematic
+
+![AC to DC Converter Schematic](AC_to_DC_converter_schematic.png)
+
+## PCB Layout
+
+![PCB Layout](AC_to_DC_converter_pcb.png)
+
+## 3D View
+
+![3D View](AC_to_DC_converter_3Dview.png)
+
+
 ## Author
 
 **Shruti Dorge**
