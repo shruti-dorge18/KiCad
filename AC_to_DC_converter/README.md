@@ -46,11 +46,11 @@ The PCB was designed using KiCad with through-hole components and routed connect
 
 The PCB layout includes components such as:
 
-* Diodes
-* Resistors
-* Capacitor
+* 1N4007 Diodes (x4)
+* Resistors (x2)
+* Unpolarized capacitor
 * LED
-* Terminal blocks
+* Terminal blocks (x2)
 
 ## 3D Models
 
