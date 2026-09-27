@@ -18,6 +18,7 @@ The project was developed to practice PCB designing
 ## Reference
 
 This project was created while following this YouTube tutorial for learning and reference:
+
 https://youtu.be/qJ6HhyoyFbA?si=Ja4rXb8v6HYuZlvf
 
 
