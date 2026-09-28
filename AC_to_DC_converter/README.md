@@ -4,8 +4,9 @@ A PCB design for an AC to DC converter, created using KiCad.
 
 ## Overview
 
-Designed to convert AC input into regulated DC output.
-This project contains the schematic, PCB layout, and required 3D models for an AC to DC converter.
+Designed an AC–DC conversion circuit to convert AC input into regulated DC output ;
+
+using a bridge rectifier (1N4007), filtering capacitor, current-limiting resistors, and LED power indication.
 
 The project was developed to practice pcb designing
 
