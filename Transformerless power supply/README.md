@@ -5,7 +5,9 @@ A PCB design for a transformerless power supply, created using KiCad.
 
 ## Overview
 
-This project contains the schematic, PCB layout of transformerless power supply.
+Designed a transformerless AC–DC power supply to convert AC input into a lower, regulated DC output for low-power electronic circuits;
+
+integrating bridge rectification, filtering, Zener-based voltage regulation, LM7805 regulation, and LED indication.
 
 The project was developed to practice PCB designing
 
