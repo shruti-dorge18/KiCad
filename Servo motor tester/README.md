@@ -4,7 +4,7 @@ A PCB design for a servo motor tester circuit, created using KiCad.
 
 ## Overview
 
-This project contains the schematic and PCB layout of a servo motor tester, used to test whether a servo motor is functioning correctly by generating a variable PWM signal to sweep it through its range of motion.
+Designed a 555-timer-based PWM servo motor tester with an adjustable potentiometer for varying the PWM signal to sweep it through its range of motion.
 
 The project was developed to practice PCB designing.
 
