@@ -14,9 +14,13 @@ The project was developed to practice pcb designing
 
 * KiCad
 
+## View PCB on Boardrepo
+https://boardrepo.com/shruti-dorge18/ac-to-dc-converter
+
 ## Reference
 
 This project was created while following this YouTube tutorial for learning and reference:
+
 https://youtu.be/dsz6Dzvou2o?si=fpQfjwIH6Eks47Hm
 
 ## Project Structure
