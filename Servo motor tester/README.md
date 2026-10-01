@@ -13,6 +13,9 @@ The project was developed to practice PCB designing.
 * KiCad
 * Snapmagic :  for downloading footprint & 3D model of potentiometer
 
+## View PCB on Boardrepo
+https://boardrepo.com/shruti-dorge18/servo-motor-tester
+
 ## Reference
 
 This project was created while following this YouTube tutorial by Ampnics, for learning and reference:
